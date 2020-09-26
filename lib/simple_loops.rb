@@ -2,6 +2,14 @@
 
 def loop_message_five_times(string)
   
-  puts string *5
+  count = 0 
+  
+  while count >= 5 do
+    
+    puts string
+    
+    count += 1 
+    
+  end
   
 end
