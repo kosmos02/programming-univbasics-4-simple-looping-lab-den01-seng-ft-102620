@@ -20,9 +20,9 @@ def loop_message_n_times(string, integer)
   
   while count <= integer
   
-  puts string
-  
-  count += 1
+    puts string
+    
+    count += 1
   
   end
 
